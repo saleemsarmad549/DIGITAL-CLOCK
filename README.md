@@ -1,1 +1,1 @@
-# DIGITAL-CLOCK
+This Python program is a digital world clock built with CustomTkinter that displays the current time and date for selected countries. 🕒 Users can enter a country name 🌍 to see its local time, with the country label highlighted in green ✅. The clock updates every second ⏱️ and shows time in a clean hours:minutes:seconds AM/PM format alongside the full date 📅.
